@@ -1,8 +1,8 @@
 Fine-Tuning DialoGPT for Persona Based Chatbot
-Chosen LLM
-I choose DialoGPT-medium for this project. DialoGPT is a variant of  GPT-2 which has been fine tuned for dialogue generation tasks and thus is very good at producing  coherent and contextually relevant responses in conversational settings.
+Chosen LLM:
+I choose DialoGPT-medium for this project. DialoGPT is a variant of  GPT-2 which has been fine tuned for dialogue generation tasks and thus is very good at producing coherent and contextually relevant responses in conversational settings.
 
-Chosen Fine Tuning Method
+Chosen Fine Tuning Method:
 I fine  tuned the model using the Hugging Face transformers library, which is a library that provides state of the  art tools for training and deploying language models such as DialoGPT. The steps involved include loading  and the preparing Trainer the class.
 
 Justifications
