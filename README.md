@@ -1,4 +1,4 @@
-                                                                      **Persona-Based Chatbot Fine-Tuned on DialoGPT Medium**
+**-                                                                         Persona-Based Chatbot Fine-Tuned on DialoGPT Medium                                                                                   -**
 **Model Description**
 This model is based on the DialoGPT-medium architecture and has been fine-tuned for conversational tasks, specifically targeting persona-based interactions.
 
@@ -7,7 +7,7 @@ Pretraining Data: Large corpus of text data
 Fine-tuning Data: Persona-based conversational data
 Library Framework: PyTorch
 
-**Intended Use**
+**Intended Use:**
 This model generates human-like text responses in a conversational context. It's useful for:
 
 **Why DialoGPT Medium?**
