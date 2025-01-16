@@ -1,4 +1,4 @@
-**--------------------------------------------------------------------------Persona-Based Chatbot Fine-Tuned on DialoGPT Medium------------------------------------------------------------------------------------**
+**-----------------------------------------------------------Persona-Based Chatbot Fine-Tuned on DialoGPT Medium-----------------------------------------------**
 
 **Model Description**
 This model is based on the DialoGPT-medium architecture and has been fine-tuned for conversational tasks, specifically targeting persona-based interactions.
