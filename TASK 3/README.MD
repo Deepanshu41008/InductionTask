@@ -25,4 +25,4 @@ Fine-tuned the model on the dataset.
 Model Weights Link
 Find the model on Hugging Face's Model Hub here:
 
-**Model Weights**: DialoGPT-medium Fine-Tuned on Persona Data
+**Model Weights**: https://huggingface.co/hello12w/persona_chatbot
